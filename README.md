@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![Spotify Dashboard](dashboard.png)
+![Spotify Dashboard](dashboard.jpg)
 
 
 This dashboard provides real-time analytics with 99% data freshness, displaying key metrics like top tracks, listener engagement, and playlist trends.
